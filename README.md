@@ -5,3 +5,5 @@
 2. Data Encoding
 
 3. Data scaling
+
+4. Regression
